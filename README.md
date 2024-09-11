@@ -1,7 +1,6 @@
 # Hello! I'm Radik
-Front-end developer based in Batumi, Georgia with 6+ years of experience in development websites and web applications. 
-I specialize in JavaScript/TypeScript and have professional experience working with React and Vue. Also i have experience with Canvas API and WebGL.
-I'm interested in gamedev, art/design, motion design and music. Lead two music projects [DTTE](https://open.spotify.com/artist/38MmDiW4NOzG5gvulaQqWQ) and [Bireflector](https://open.spotify.com/artist/0xzoclQiYuYRHA7zTaqPR1).
+Front-end developer based in Batumi, Georgia with 6+ years of experience in developing websites and web applications. I specialize in JavaScript/TypeScript and have professional experience working with React and Vue. I also have experience with the Canvas API and WebGL. I'm interested in game development, art/design, motion design, and music. I lead two music projects: [DTTE](https://open.spotify.com/artist/38MmDiW4NOzG5gvulaQqWQ) and [Bireflector](https://open.spotify.com/artist/0xzoclQiYuYRHA7zTaqPR1).
+
 
 ## Socials
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/h2xdev)
