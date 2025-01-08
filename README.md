@@ -1,5 +1,5 @@
 # Hello! I'm Radik
-I'm a front-end developer based in Batumi, Georgia with 6+ years of experience in developing websites and web applications. I specialize in JavaScript/TypeScript and have professional experience working with React and Vue. I also have experience with the Canvas API and WebGL. I'm interested in game development, art/design, motion design, and music. I lead two music projects: [DTTE](https://open.spotify.com/artist/38MmDiW4NOzG5gvulaQqWQ) and [Bireflector](https://open.spotify.com/artist/0xzoclQiYuYRHA7zTaqPR1).
+I'm a full-stack developer based in Batumi, Georgia with 6+ years of experience in developing websites and web applications. I specialize in JavaScript/TypeScript and have professional experience working with React and Vue. I also have experience with the Canvas API and WebGL. I'm interested in game development, art/design, motion design, and music. I lead two music projects: [DTTE](https://open.spotify.com/artist/38MmDiW4NOzG5gvulaQqWQ) and [Bireflector](https://open.spotify.com/artist/0xzoclQiYuYRHA7zTaqPR1).
 
 
 ## Socials
@@ -9,6 +9,7 @@ I'm a front-end developer based in Batumi, Georgia with 6+ years of experience i
 
 ## Stack
 ![JS/TS](https://img.shields.io/badge/Java\/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
