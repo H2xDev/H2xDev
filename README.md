@@ -7,7 +7,7 @@ A front-end developer from Batumi, Georgia, with over 6 years of experience crea
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/h2xdeveloper)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h2xdeveloper)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/radik-khamatdinov-7339a696/)
-[![X/Twitter](https://img.shields.io/badge/X%2FTwitter-0a66c2?style=for-the-badge&logo=x&logoColor=white)](https://www.linkedin.com/in/radik-khamatdinov-7339a696/)
+[![X/Twitter](https://img.shields.io/badge/X%2FTwitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/h2xdeveloper)
 
 ## Stack
 ![JS/TS](https://img.shields.io/badge/Java\/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
